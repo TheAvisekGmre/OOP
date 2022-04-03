@@ -36,7 +36,7 @@ Automatic initialization is the process of initializing object’s data members 
 
 ## Constructor Overloading
 
-> Constructors are not overloaded.
-> Constructors are overloaded if they have same name but different number of parameters.
-> Constructors are overloaded if they have same name and same number of parameters but different types of parameters.
-> Constructors are overloaded if they have same name and same number of parameters and same types of parameters but different default values.
+- Constructors are not overloaded.
+- Constructors are overloaded if they have same name but different number of parameters.
+- Constructors are overloaded if they have same name and same number of parameters but different types of parameters.
+- Constructors are overloaded if they have same name and same number of parameters and same types of parameters but different default values.
